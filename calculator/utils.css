@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.mx-width{
+    max-width: 60%;
+}
+.f-s{
+  font-size: 20px;
+}
+.padding button{
+    padding: 11px 16px;
+}
+.clear{
+    padding: 0px 87px;
+    background-color: black;
+    color: red;
+}
+.bg-color{
+    color: #89fcff;
+}
